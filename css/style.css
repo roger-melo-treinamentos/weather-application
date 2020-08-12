@@ -1,0 +1,11 @@
+body {
+  background: #233047;
+}
+
+.container {
+  max-width: 400px;
+}
+
+h1 {
+  font-size: 2.2rem;
+}
